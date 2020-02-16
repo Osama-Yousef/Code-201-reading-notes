@@ -5,7 +5,7 @@
 
 Read #    |    Read topic / link
 ------    | ------------------
-Read 1    |    Introductory HTML and JavaScript / (link)[https://osama-yousef.github.io/Code-201-reading-notes/class-01]
+Read 1    |   [link](https://osama-yousef.github.io/Code-201-reading-notes/class-01)
 Read 2    |    
 Read 3    |     
 Read 4    |    
