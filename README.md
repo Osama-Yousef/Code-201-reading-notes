@@ -5,7 +5,7 @@
 
 Read #    |    Read topic / link
 ------    | ------------------
-Read 1    |    read 1 topic / 
+Read 1    |    Introductory HTML and JavaScript / ![ go to --> ]()
 Read 2    |    
 Read 3    |     
 Read 4    |    
