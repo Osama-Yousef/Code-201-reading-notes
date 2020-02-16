@@ -148,7 +148,7 @@ array value = 'white ' and INDEX VALUE = 1 for array value = 'black ' et..)`
 3. NUMBER OF ITEMS IN AN ARRAY : Each array has a property called length, which holds the number of items
  in the array.`( ex var numColors; numColors =colors.length; )`
  
-4. CHANGING VALUES IN AN ARRAY(updating) : `( ex  the third item on the list is changed from 'custom' to 'beige' like this colors[2] = 'beige' ; )`
+4. `CHANGING VALUES IN AN ARRAY(updating) : ( ex  the third item on the list is changed from 'custom' to 'beige' like this colors[2] = 'beige' ; )`
 
 ------------------------------------------------------------------------------------------------------------------------------
 
