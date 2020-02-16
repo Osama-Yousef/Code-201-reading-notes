@@ -19,10 +19,10 @@ some space between it and any subsequent paragraphs.
 * By enclosing words in the tags <i> and </i> we can make characters appear italic(such as technical terms,
 names of ships, foreign words, thoughts, or other terms that would usually be italicized
 
-* The <sup> element is used to contain characters that should be superscript such as the suffixes of dates or 
+* The <sup>  element is used to contain characters that should be superscript such as the suffixes of dates or 
 mathematical concepts like raising a number to a power such as 22.such as (4<sup>th</sup> )
   
-* <sub> : The <sub> element is used to contain characters that should be subscript. It is commonly 
+* The <sub> element is used to contain characters that should be subscript. It is commonly 
 used with foot notes or chemical formulas such as H20.such as( CO<sub>2</sub> )
   
 * white space collapsing : When the browser comes across two or more spaces next to each other, it only displays one space. Similarly if it comes across a line break, it treats that as a single space too.(so if there is two or more spaces between the words in the <p></p> tag so the browser will display just one space)
