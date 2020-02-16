@@ -1,5 +1,4 @@
 # From the Duckett HTML book:
-
 ## Chapter 2: “Text” (pp.40-61)
 
 * there is two types of markup that we can add to the text :
