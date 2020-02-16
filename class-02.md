@@ -148,8 +148,10 @@ array value = 'white ' and INDEX VALUE = 1 for array value = 'black ' et..)`
 3. NUMBER OF ITEMS IN AN ARRAY : Each array has a property called length, which holds the number of items
  in the array.`( ex var numColors; numColors =colors.length; )`
  
-4. CHANGING VALUES IN AN ARRAY (updating) : `( ex  the third item on the list is changed from 'custom' to 'beige' like this colors[2] = 'beige' ; )`
+4. CHANGING VALUES IN AN ARRAY(updating) : `( ex  the third item on the list is changed from 'custom' to 'beige' like this colors[2] = 'beige' ; )`
+
 ------------------------------------------------------------------------------------------------------------------------------
+
 ## Chapter 4: “Decisions and Loops” only up to the section on switch statements (pp.145-162)
 
 * the code can take more than one path, which means the browser runs different code in different situations. In this chapter, you will learn how to create and control the flow of data in your scripts to handle different situations.
