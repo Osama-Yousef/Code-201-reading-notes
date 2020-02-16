@@ -1,13 +1,16 @@
-# From the Duckett HTML book:
+# Code 201 Reading Notes
 
-## Introduction (pp.2-11)
 
-### this book is useful for :
+## From the Duckett HTML book:
+
+### Introduction (pp.2-11)
+
+#### this book is useful for :
 
 1. how to design and build websites from scratch
 2. people who wants more control over the appearance of their pages
 
-### this book contains :
+#### this book contains :
 
 1. backgrounds
 2. diagrams
@@ -16,27 +19,27 @@
 5. examples
 6. summaries
 
-### this book is divided into three sections:
+#### this book is divided into three sections:
 
 1. html : used to create web pages
 2. css : enable you to control the styling and layout of web pages and it concerns about presentation and layout of the web page
 3. practical 
 
-### there are different ways in which people access the web and clarify some terminology :
+#### there are different ways in which people access the web and clarify some terminology :
 
 1. browsers
 2. web server
 3. screen readers
 4. devices
 
-### how the web works ?
+#### how the web works ?
 
 *When you visit a website, the web server hosting that site could be anywhere in the world. In order
  for you to find the location of the web server, your browser will first connect to a Domain Name System (DNS) server*
 
 --------------------------------------
 
-## HTML Chapter 1: “Structure” (pp.12-39)
+### HTML Chapter 1: “Structure” (pp.12-39)
 
 * In all kinds of documents, structure is very important in helping readers to understand
  the messages you are trying to convey and to navigate around the document
@@ -53,7 +56,7 @@ their opening and closing tags.
 tag of the element and are made up of two parts: a name and a value, separated by an equals sign.
 
 ---------------------
-## HTML Chapter 8: “Extra Markup” (p.176-199)
+### HTML Chapter 8: “Extra Markup” (p.176-199)
 
 * doctypes tell browser which version of html are using 
 * you can add comments to your code and we can use escape charachters to include special charachters
@@ -62,7 +65,7 @@ tag of the element and are made up of two parts: a name and a value, separated b
 * The <meta> tag allows you to supply all kinds of information about your web page.
 * The id and class attributes allow you to identify particular elements.
 ---------------
-## HTML Chapter 17: “HTML5 Layout” (pp.428-451)
+### HTML Chapter 17: “HTML5 Layout” (pp.428-451)
 
 * web page authors used <div> elements to group together related elements 
 on the page (such as the elements that form a header, an article, footer or sidebar). Authors used 
@@ -70,7 +73,7 @@ class or id attributes to indicate the role of the <div> element in the structur
 * HTML5 introduces a new set of elements that allow you to divide up the parts of a page
 * The new elements provide clearer code (compared  X with using multiple <div> elements).
 -----------------------
-## HTML Chapter 18: “Process & Design” (pp.452-475)
+### HTML Chapter 18: “Process & Design” (pp.452-475)
 
 * Every website should be designed for the target audience—not just for yourself or 
 the site owner. It is therefore very important to understand who your target audience is.
@@ -88,14 +91,14 @@ recognized and processed first.
 * Site navigation not only helps people find where they want to go, but also helps them 
 understand what your site is about and how it is organized. Good navigation tends to follow these principles...
 ----------------------
-### From the Duckett JS book:
+#### From the Duckett JS book:
 
-## Introduction 
+### Introduction 
 
 * JavaScript can be used in browsers to make websites more interactive, interesting, and 
 user-friendly. You will also learn about jQuery because it makes writing JavaScript a lot easier. 
 -----------
-## JS Chapter 1: “The ABC of Programming” (pp.11-52)
+### JS Chapter 1: “The ABC of Programming” (pp.11-52)
 
 * Before you learn how to read and write the JavaScript language itself, you need to become familiar with
  some key concepts in computer programming called ABC :
