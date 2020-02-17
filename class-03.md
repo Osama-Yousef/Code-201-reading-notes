@@ -2,8 +2,8 @@
 
 ## From the Duckett HTML book:
 
-### Chapter 3: “Lists” (pp.62-73)
-* There are different types of lists :
+***Chapter 3: “Lists” (pp.62-73)***
+> There are different types of lists :
 1. Ordered lists : are lists where each item in the list is numbered.
   * We use `<ol> element ` for this
   * Each item in the list is placed between an opening `<li>` tag and a closing `</li>` tag. (The `li` stands for list item.)
@@ -26,9 +26,9 @@
   
   -----------------------------------------------------------------------------------------------------------------------------------
   
-  ### Chapter 13: “Boxes” ( for more understandig see pp.300-329)
+  ***Chapter 13: “Boxes” ( for more understandig see pp.300-329)***
   
-  *  CSS treats each HTML element as if it lives in its own box.
+  > CSS treats each HTML element as if it lives in its own box.
   *  `width, height`  To set your own dimensions for a box using units of pixels( most popular method ) , percentage(the size of the box      is relative to the size of the browser window ) , ems (the size of the box is based on the size of text within it)
   * `min-width, max-width` : `min-width ` property specifies the smallest size a box can be displayed at when the browser window is         narrow and to make sure that they do not appear too narrow , and the `max-width` property indicates the maximum width a box can         stretch to when the browser window is wide and to ensure that lines of text do not appear too wide within a big browser window.
   * You can limiting the height too using : ( `min-height, max-height`)
@@ -44,8 +44,8 @@
   * The display property allows you to turn an inline element into a block-level element or vice versa, and can also be used to hide an     element from the page
   -----------------------------------------------------------------------------------------------------------------------------------
   ## From the Duckett JS book:
-  ### Chapter 4: “Decisions and Loops” from switch statements on (for more understanding see pp.162-182)
-  * A switch statement starts with a variable called the switch value. Each case indicates a possible value for
+  ***Chapter 4: “Decisions and Loops” from switch statements on (for more understanding see pp.162-182)***
+  > A switch statement starts with a variable called the switch value. Each case indicates a possible value for
    this variable and the code that should run if the variable matches that value . 
   * Logical operators are processed left to right. They short-circuit (stop) as soon as they have a result - but they return the value       that stopped the processing (not necessarily true or fa 1 se). 
   * There are the common types of loops : for , while and do while
