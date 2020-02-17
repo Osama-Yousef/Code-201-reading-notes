@@ -44,10 +44,14 @@
   * The border property allows you to specify the width, style and color of a border in one property 
   * The padding property allows you to specify how much space should appear between the content of an element and its border. 
   * The margin property controls the gap between boxes. Its value is commonly given in pixels, although you may also use .
-  * The display property allows you to turn an inline element into a block-level element or vice versa, and can also be used to hide an     element from the page
+  * The display property allows you to turn an inline element into a block-level element or vice versa, and can also be used to hide an     element from the page. 
+  
   -----------------------------------------------------------------------------------------------------------------------------------
+  
   ## From the Duckett JS book:
+  
   ***Chapter 4: “Decisions and Loops” from switch statements on (for more understanding see pp.162-182)***
+  
   > A switch statement starts with a variable called the switch value. Each case indicates a possible value for
   > this variable and the code that should run if the variable matches that value . 
   
