@@ -48,7 +48,7 @@
   
   -----------------------------------------------------------------------------------------------------------------------------------
   
-  ## From the Duckett JS book:
+ ## From the Duckett JS book :
   
   ***Chapter 4: “Decisions and Loops” from switch statements on (for more understanding see pp.162-182)***
   
