@@ -21,6 +21,7 @@
  
 * Links are created using the `<a>` element. Users can click on anything between the opening `<a>` tag and the closing `</a>` tag. You specify which page you want to link to using the href attribute 
 
+
 * Relative URLs can be used when linking to pages within your own website. They provide a shorthand way of telling the browser where to find your files.
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -44,6 +45,7 @@
 * There are two ways to add multiple style sheets to a page:
    * Your HTML page can link to one style sheet and that stylesheet can use the @import rule to import other style sheets.
    * In the `HTML` you can use a separate `<link>` element for each style sheet.
+   
 * Browsers display pages in normal flow unless you specify relative, absolute, or fixed positioning
 ---------------------------------------------------------------------------------------------------------------------------------------
 ## From the Duckett JS book :
