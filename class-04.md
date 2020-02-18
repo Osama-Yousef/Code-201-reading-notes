@@ -57,8 +57,32 @@
  * In the `HTML` you can use a separate `<link>` element for each style sheet.
 * Browsers display pages in normal flow unless you specify relative, absolute, or fixed positioning
 ---------------------------------------------------------------------------------------------------------------------------------------
+## From the Duckett JS book :
+### Chapter 3 (first part): “Functions, Methods, and Objects” (for more understanding see pp.86-99 ONLY)
 
-
+* Programmers use functions, methods, and objects to organize their code. 
+ * Functions  : Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements). 
+ * Expressions produce a value. They can be used where values are 
+ * The location where you declare a variable will affect where it can be used within your code. If you declare it within a function, it can only be used within that function. This is known as the variable's scope
+ * Functions can take parameters (information) required to do their job and may return a value
+ --------------------------------------------------------------------------------------------------------------------------------------
+ 
+ ### Article: “6 Reasons for Pair Programming” :
+ 
+ * pair programming : is the practice of two developers sharing a single workstation to interactively tackle a coding task together.
+ * pair programming commonly involves two roles: the Driver and the Navigator
+  * The Driver is the programmer who is typing and the only one whose hands are on the keyboard. Handling the “mechanics” of coding
+  * the Driver manages the text editor, switching files, version control, and—of course writing—code
+ * Pair programming touches on all four skills: developers explain out loud what the code should do, listen to others’ guidance, read code that others have written, and write code themselves.
+ * Reasons for Pair Programming :
+  * Greater efficiency
+  * Engaged collaboration
+  * Learning from fellow students
+  * Social skills
+  * Job interview readiness
+  * Work environment readiness
+  
+  
 
 
 
