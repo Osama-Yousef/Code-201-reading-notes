@@ -1,10 +1,13 @@
 # Read:05 Summary 
 ## From the Duckett HTML book:
-### Chapter 5: “Images” (pp.94-125)
+***Chapter 5: “Images” (pp.94-125)***
 
-* A picture can say a thousand words, and great images help make the difference between an average-looking site and a really engaging one
-* If you are building a site from scratch, it is good practice to create a folder for all of the images the site uses.
-* On a big site you might like to add subfolders inside the images folder. 
+> A picture can say a thousand words, and great images help make the difference between an average-looking site and a really engaging one
+
+> If you are building a site from scratch, it is good practice to create a folder for all of the images the site uses.
+
+> On a big site you might like to add subfolders inside the images folder. 
+
 * For adding img to my html page we use this syntax : `( <img src="images/quokka.jpg" alt="A family of   quokka" title="The quokka is an Australian   marsupial that is similar in size to the   domestic cat." width="600"  height="450"  /> `
 * `src` This tells the browser where it can find the image file
 * ` alt` This provides a text description of the image which describes the image if you cannot see it.
@@ -33,13 +36,16 @@ Adobe Photoshop ,Adobe Fireworks, Pixelmator, PaintShop Pro , Paint.net
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-### Chapter 11: “Color” (pp.246-263)
+***Chapter 11: “Color” (pp.246-263)***
 
-* Color can really bring your pages to life.
-* You can specify any color in CSS (Foreground & baCkground color) in one of three ways:
- * rgb values 
- * hex Codes 
- * Color names 
+> Color can really bring your pages to life.
+
+*You can specify any color in CSS (Foreground & baCkground color) in one of three ways:*
+
+  * rgb values 
+  * hex Codes 
+  * Color names 
+  
 * Every color on a computer screen is created by mixing amounts of red, green, and blue (rgb)
 * When picking foreground and background colors, it is important to ensure that there is enough contrast for the text to 
 be legible and easy to read especially a lot of texts
@@ -47,16 +53,16 @@ be legible and easy to read especially a lot of texts
 * CSS3 introduces an entirely new and intuitive way to specify colors using (hue, saturation, and lightness values)(hsl)
 -----------------------------------------------------------------------------------------------------------------------------------
 
-### Chapter 12: “Text” (pp.264-299 .for more understanding see p277-p299)
+***Chapter 12: “Text” (pp.264-299 .for more understanding see p277-p299)***
 
- * The properties that allow you to control the appearance of text can be split into two groups:
+ > The properties that allow you to control the appearance of text can be split into two groups:
  
-  * Those that directly affect the font and its appearance (including the typeface, whether it is regular, bold or italic, and the size of the text)
+  > Those that directly affect the font and its appearance (including the typeface, whether it is regular, bold or italic, and the size of the text)
   
-  * Those that would have the same effect on text no matter what font you were using (including the color of text and the spacing between words and letters)
+  > Those that would have the same effect on text no matter what font you were using (including the color of text and the spacing between words and letters)
   
   
-* Typeface Terminolog (browser will usually only display it if it's installed on that user's computer): 
+*Typeface Terminolog (browser will usually only display it if it's installed on that user's computer):*
 
 
   * Serif :ex. Georgia / Times /  Times New Roman
