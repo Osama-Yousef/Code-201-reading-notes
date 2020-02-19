@@ -7,8 +7,8 @@
 * On a big site you might like to add subfolders inside the images folder. 
 * For adding img to my html page we use this syntax : `( <img src="images/quokka.jpg" alt="A family of   quokka" title="The quokka is an Australian   marsupial that is similar in size to the   domestic cat." width="600"  height="450"  /> `
 * `src` This tells the browser where it can find the image file
-*` alt` This provides a text description of the image which describes the image if you cannot see it.
-*` title `: to provide additional information about the image
+* ` alt` This provides a text description of the image which describes the image if you cannot see it.
+* `title` : to provide additional information about the image
 * height This specifies the height of the image in pixels
 * width This specifies the width of the image in pixels.
 * The size of images is increasingly being specified using CSS rather than HTML 
@@ -35,7 +35,20 @@ Adobe Photoshop ,Adobe Fireworks, Pixelmator, PaintShop Pro , Paint.net
 
 ### Chapter 11: “Color” (pp.246-263)
 
-* 
+* Color can really bring your pages to life.
+* You can specify any color in CSS (Foreground & baCkground color) in one of three ways:
+ * rgb values 
+ * hex Codes 
+ * Color names 
+* Every color on a computer screen is created by mixing amounts of red, green, and blue (rgb)
+* When picking foreground and background colors, it is important to ensure that there is enough contrast for the text to 
+be legible and easy to read especially a lot of texts
+* opacity property which allows you to specify the opacity of an element and any of its child elements.
+* CSS3 introduces an entirely new and intuitive way to specify colors using (hue, saturation, and lightness values)(hsl)
+-----------------------------------------------------------------------------------------------------------------------------------
+
+### Chapter 12: “Text” (pp.264-299)
+
 
 
 
