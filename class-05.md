@@ -47,7 +47,67 @@ be legible and easy to read especially a lot of texts
 * CSS3 introduces an entirely new and intuitive way to specify colors using (hue, saturation, and lightness values)(hsl)
 -----------------------------------------------------------------------------------------------------------------------------------
 
-### Chapter 12: “Text” (pp.264-299)
+### Chapter 12: “Text” (pp.264-299 .for more understanding see p277-p299)
+
+ * The properties that allow you to control the appearance of text can be split into two groups:
+ 
+  * Those that directly affect the font and its appearance (including the typeface, whether it is regular, bold or italic, and the size of the text)
+  
+  * Those that would have the same effect on text no matter what font you were using (including the color of text and the spacing between words and letters)
+  
+  
+* Typeface Terminolog (browser will usually only display it if it's installed on that user's computer): 
+
+
+  * Serif :ex. Georgia / Times /  Times New Roman
+
+  * sans-serif :ex. Arial  / Verdana  / Helvetica
+
+  * monospace : Courier / Courier New 
+  
+  * cursive : ex . Comic Sans MS /  Monotype Corsiva
+  
+  * fantasy : ex. Impact /  Haettenschweiler
+  
+* Browsers are supposed to support at least one typeface from each of the groups above. For this reason, it is common to add the generic font name after your preferred choice of typefaces.(ex. font-family: Georgia, Times, serif; )
+
+* There are several ways to use fonts other than those listed above.typefaces are subject to copyright, so the techniques you can choose from are limited by their respective licenses
+
+  * fonT-family : There is a limited choice because the font needs to be installed on users' computers.
+  
+  * Designers suggest pages usually look better if they use no more than three typefaces on a page.
+  * ex. body {font-family: Arial, Verdana, sans-serif;})
+  * There are several ways to specify the size of a font. The most common are:pixels & percentages
+  * `({ font-size: 1.3em;}) , { font-size: 200%;} ,font-size: 12px;} `
+
+
+
+     
+  
+  * fonT-face : The user has to download the font file, which can slow down loading of the web page.
+
+  
+  * Service-baSed fonT-face : Each service offers a different choice of fonts based on their agreements with font foundries
+  
+* Stretch : Condensed , Regular,  Extended
+* style : Normal, Italic, Oblique
+* Weight : Light ,Medium ,  Bold , Black
+* browser is 16 pixels. So if you use percentages or ems, you calculate the size of text you want based on the default size of the text used in browsers. For example, you could scale down to 12 pixels for body copy and scale up to 24 pixels for headings.
+
+                             ------------------------------------------------
+* `@font-face` : allows you to use a font, even if it is not installed on the computer of the person browsing, by allowing you to specify a path to a copy of the font, which will be downloaded if it is not on the user's machine
+* font-family : This specifies the name of the font. This name can then be used as a value of the font-family property in the rest of the style sheet (as shown in the rule for the `<h1> and <h2> `elements).
+* `src` : This specifies the path to the font. In order for this technique to work in all browsers, you will probably need to specify paths to a few different versions of the font
+* format This specifies the format that the font is supplied in.
+* font-weight : bold and normal
+* font-style " normal , italic , oblique
+* there are some additional css selectors :equaliTy / Space / prefix / SubSTring / Suffix
+
+
+
+
+
+
 
 
 
