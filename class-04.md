@@ -2,9 +2,10 @@
 # Read:04-Summary 
 ## From the Duckett HTML book:
 ### Chapter 4: Ch.4 “Links” ( for more understanding see pp.74-93)
-* Links are the defining feature of the web because they allow you to move from one web page to another — enabling the very idea of browsing or surfing.
+***Links are the defining feature of the web because they allow you to move from one web page to another — enabling the very idea of browsing or surfing.***
 
-* Types of links :
+> Types of links :
+
 
    * Links from one website to another : Links are created using the `<a>` element which has an attribute called `href`. The value of the href attribute is the page that you want people to go to when they click on the link.
    
@@ -27,8 +28,9 @@
 
 ### Chapter 15: “Layout” (for more understanding see pp.358-404)
 
-*  we are going to look at how to control where each element sits on a page and how to create attractive page layouts.
-* position elements using normal `flow, relative positioning, absolute positioning and floats `
+***we are going to look at how to control where each element sits on a page and how to create attractive page layouts.***
+> position elements using normal `flow, relative positioning, absolute positioning and floats `
+
 * CSS treats each HTML element as if it is in its own box. This box will either be a block-level box or an inline box.
    * Block-level elements start on a new line Examples include: `<h1> <p> <ul> <li>`
    * inline elements flow in Between surrounding text Examples include: `<img> <b> <i>`
@@ -56,8 +58,11 @@
 * Expressions produce a value. They can be used where values are 
 * The location where you declare a variable will affect where it can be used within your code. If you declare it within a function, it can only be used within that function. This is known as the variable's scope
 * Functions can take parameters (information) required to do their job and may return a value
+
+
  --------------------------------------------------------------------------------------------------------------------------------------
  ### Article: “6 Reasons for Pair Programming” :
+ 
  * pair programming : is the practice of two developers sharing a single workstation to interactively tackle a coding task together.
  * pair programming commonly involves two roles: the Driver and the Navigator
    * The Driver is the programmer who is typing and the only one whose hands are on the keyboard. Handling the “mechanics” of coding
