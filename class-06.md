@@ -2,12 +2,7 @@
 
 > The hardest thing about writing code are :
 
-   > earning a new technology
-   > Naming things
-   > Testing your code
-   > Debugging
-   > Fixing bugs
-   > Making software maintainable
+   > earning a new technology / Naming things / Testing your code / Debugging / Fixing bugs / Making software maintainable
    
    
 ***To make programming easier :***
