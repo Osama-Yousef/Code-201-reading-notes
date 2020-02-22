@@ -5,11 +5,11 @@
    > earning a new technology / Naming things / Testing your code / Debugging / Fixing bugs / Making software maintainable
    
    
-***To make programming easier :
+***To make programming easier :***
 
-  * Make the problem domain easier
+  * 1.Make the problem domain easier
   
-  * Get better at understanding the problem domain
+  * 2.Get better at understanding the problem domain
    
 * You can often make the problem domain easier by cutting out cases and narrowing your focus to a particular part of the problem.
 * It is easy to fall into the trap of thinking you understand enough of the problem to get started coding it
