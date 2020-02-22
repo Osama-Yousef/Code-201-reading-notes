@@ -6,8 +6,9 @@
    
    
 ***To make programming easier :***
-  * Make the problem domain easier
-  * Get better at understanding the problem domain
+
+ * Make the problem domain easier
+ * Get better at understanding the problem domain
    
 * You can often make the problem domain easier by cutting out cases and narrowing your focus to a particular part of the problem.
 * It is easy to fall into the trap of thinking you understand enough of the problem to get started coding it
