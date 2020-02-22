@@ -1,6 +1,6 @@
 # Read:06 Summary
 
-* The hardest thing about writing code are :
+> The hardest thing about writing code are :
 
    * earning a new technology
    * Naming things
@@ -8,7 +8,7 @@
    * Debugging
    * Fixing bugs
    * Making software maintainable
-* To make programming easier :
+***To make programming easier :***
    * Make the problem domain easier
    * Get better at understanding the problem domain
 * You can often make the problem domain easier by cutting out cases and narrowing your focus to a particular part of the problem.
@@ -19,12 +19,13 @@
 ## From the Duckett JS book :
 ### Chapter 3: “Object Literals” (for more understanding see pp.100-105)
 
-* Objects group together a set of variables and functions to create a model of a something you would recognize from the real world. In an object, variables and functions take on new names. 
+> Objects group together a set of variables and functions to create a model of a something you would recognize from the real world. In an object, variables and functions take on new names.
+
 * Properties tell us about the object
 * Methods represent tasks that are associated with the object
 * properties and methods have a name and a value. In an object, that name is called a key.
 * An object cannot have two keys with the same name
-* Programmers use a lot of name/value pairs :
+***Programmers use a lot of name/value pairs :***
    * HTML uses attribute names and values.
    * CSS uses property names and values.
 * Variables have a name and you can assign them a value of a string, number, or Boolean in Java Script
@@ -36,15 +37,16 @@
 
 ### Chapter 5: “Document Object Model” (for more understanding see pp.183-242)
 
-* The Document Object Model (DOM) specifies how browsers should create a model of an HTML page and how JavaScript can access and update the contents of a web page while it is in the browser window
-* The DOM specifies the way in which the browser should structure this model using a DOM tree
-* The DOM is called an object model because the model (the DOM tree) is made of objects. 
-* The DOM is neither part of HTML, nor part of JavaScript; it is a separate set of rules. It is implemented by all major browser makers, and covers two primary areas :
+> The Document Object Model (DOM) specifies how browsers should create a model of an HTML page and how JavaScript can access and update the contents of a web page while it is in the browser window
+
+***The DOM specifies the way in which the browser should structure this model using a DOM tree**
+***The DOM is called an object model because the model (the DOM tree) is made of objects.*** 
+***The DOM is neither part of HTML, nor part of JavaScript; it is a separate set of rules. It is implemented by all major browser makers, and covers two primary areas :***
    * MAKING A MODEL OF THE HTML PAGE 
    * Accessing and changing the html page
-* The DOM also defines methods and properties to access and update each object in this model, which in turn updates what the user sees in the browser
+***The DOM also defines methods and properties to access and update each object in this model, which in turn updates what the user sees in the browser***
 * Each node is an object with methods and properties. Scripts access and update this DOM tree (not the source HTML file). Any changes made to the DOM tree are reflected in the browser.
-* Accessing and updating the DOM tree involves two steps :
+***Accessing and updating the DOM tree involves two steps :***
    * Locate the node that represents the element you want to work with
    * Use its text content, child elements, and attributes
 * The terms elements and element nodes are used interchangeably but when people say the DOM is working with an element, it is actually working with a node that represents that element
